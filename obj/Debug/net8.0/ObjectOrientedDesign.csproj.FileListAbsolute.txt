@@ -1,0 +1,14 @@
+/Applications/MAMP/htdocs/DotNet/ObjectOrientedDesign/ObjectOrientedDesign/bin/Debug/net8.0/ObjectOrientedDesign
+/Applications/MAMP/htdocs/DotNet/ObjectOrientedDesign/ObjectOrientedDesign/bin/Debug/net8.0/ObjectOrientedDesign.deps.json
+/Applications/MAMP/htdocs/DotNet/ObjectOrientedDesign/ObjectOrientedDesign/bin/Debug/net8.0/ObjectOrientedDesign.runtimeconfig.json
+/Applications/MAMP/htdocs/DotNet/ObjectOrientedDesign/ObjectOrientedDesign/bin/Debug/net8.0/ObjectOrientedDesign.dll
+/Applications/MAMP/htdocs/DotNet/ObjectOrientedDesign/ObjectOrientedDesign/bin/Debug/net8.0/ObjectOrientedDesign.pdb
+/Applications/MAMP/htdocs/DotNet/ObjectOrientedDesign/ObjectOrientedDesign/obj/Debug/net8.0/ObjectOrientedDesign.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/MAMP/htdocs/DotNet/ObjectOrientedDesign/ObjectOrientedDesign/obj/Debug/net8.0/ObjectOrientedDesign.AssemblyInfoInputs.cache
+/Applications/MAMP/htdocs/DotNet/ObjectOrientedDesign/ObjectOrientedDesign/obj/Debug/net8.0/ObjectOrientedDesign.AssemblyInfo.cs
+/Applications/MAMP/htdocs/DotNet/ObjectOrientedDesign/ObjectOrientedDesign/obj/Debug/net8.0/ObjectOrientedDesign.csproj.CoreCompileInputs.cache
+/Applications/MAMP/htdocs/DotNet/ObjectOrientedDesign/ObjectOrientedDesign/obj/Debug/net8.0/ObjectOrientedDesign.dll
+/Applications/MAMP/htdocs/DotNet/ObjectOrientedDesign/ObjectOrientedDesign/obj/Debug/net8.0/refint/ObjectOrientedDesign.dll
+/Applications/MAMP/htdocs/DotNet/ObjectOrientedDesign/ObjectOrientedDesign/obj/Debug/net8.0/ObjectOrientedDesign.pdb
+/Applications/MAMP/htdocs/DotNet/ObjectOrientedDesign/ObjectOrientedDesign/obj/Debug/net8.0/ObjectOrientedDesign.genruntimeconfig.cache
+/Applications/MAMP/htdocs/DotNet/ObjectOrientedDesign/ObjectOrientedDesign/obj/Debug/net8.0/ref/ObjectOrientedDesign.dll
